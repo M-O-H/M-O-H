@@ -7,7 +7,7 @@
 
 - 🌱 My current learning plans Mongodb, Data structures 
 
-- 📫 How to reach me: <a href="https://mail.google.com/mail/u/0/#inbox">Let'a get in touch!</a>
+- 📫 How to reach me: <a href="mohmed114.salah@gmail.com">Let'a get in touch!</a>
 <!--
 **M-O-H/M-O-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
