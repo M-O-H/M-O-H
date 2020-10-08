@@ -3,7 +3,7 @@
 <img src="https://quotesblog.net/wp-content/uploads/2018/11/Welcome-Black-Text-White-BG.gif" width="400" height="130">
 
 
-- 🔭 I’m currently working on type speed game and special website
+- 🔭 I’m currently working on type speed game and <a href="https://chitat.netlify.app/">website</a>
 
 - 🌱 My current learning plans Mongodb, Data structures 
 
