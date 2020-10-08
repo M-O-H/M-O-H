@@ -1,5 +1,5 @@
 
-![alt text](https://quotesblog.net/wp-content/uploads/2018/11/Welcome-Black-Text-White-BG.gif)
+## HI there 
 <!--
 **M-O-H/M-O-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
