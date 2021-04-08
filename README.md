@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on type speed game and <a href="https://chitat.netlify.app/">website</a>
 
-- 🌱 My current learning plans Mongodb, Data structures 
+- 🌱 My current learning plans React, cypress 
 
 - 📫 How to reach me: <a href="mohmed114.salah@gmail.com">Let'a get in touch!</a>
 <!--
