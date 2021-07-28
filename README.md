@@ -2,13 +2,13 @@
 ## Hi there  👋
 <img src="https://quotesblog.net/wp-content/uploads/2018/11/Welcome-Black-Text-White-BG.gif" width="400" height="130">
 
-
+<!--
 - 🔭 I’m currently working on type speed game and <a href="https://chitat.netlify.app/">website</a>
 
 - 🌱 My current learning plans React, cypress 
 
 - 📫 How to reach me: <a href="mohmed114.salah@gmail.com">Let'a get in touch!</a>
-<!--
+
 **M-O-H/M-O-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
