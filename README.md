@@ -1,6 +1,6 @@
 
 ## Hi there  👋
-<img src="https://quotesblog.net/wp-content/uploads/2018/11/Welcome-Black-Text-White-BG.gif" width="400" height="130">
+<img src="https://www.icegif.com/wp-content/uploads/icegif-87.gif" width="400" height="130">
 
 <!--
 - 🔭 I’m currently working on type speed game and <a href="https://chitat.netlify.app/">website</a>
