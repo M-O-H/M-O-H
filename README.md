@@ -1,23 +1,12 @@
 
-## Hi there  👋
-<img src="https://www.icegif.com/wp-content/uploads/icegif-87.gif" width="400" height="130">
+## Hi there, I'm mohamed 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-o-h&theme=tokyonight&show_icons=true)
 
-<!--
-- 🔭 I’m currently working on type speed game and <a href="https://chitat.netlify.app/">website</a>
+![NodeJS](https://camo.githubusercontent.com/0151e0bb66d45d275c8f6d53847d9a7973d2573c162466343a4fd960e0c99868/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73)
+![JavaScript](https://camo.githubusercontent.com/b4385df332a8388555b70eaa0281f547690043483bb511483394dc227f4d63ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-- 🌱 My current learning plans React, cypress 
-
-- 📫 How to reach me: <a href="mohmed114.salah@gmail.com">Let'a get in touch!</a>
-
-**M-O-H/M-O-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on type speed game and special website
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML](https://camo.githubusercontent.com/4714dbb9316941f232cdf4c912f28beb6a9d1a52bde8a275dbdc8921debf2c28/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c2d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d48544d4c35)
+![CSS](https://camo.githubusercontent.com/4b36f9d594c5fe41748c50da564019a4ad479ac6fc40706cec3d1d35379b42bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4353532d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d43535333266c6f676f436f6c6f723d313537324236)
+![React](https://camo.githubusercontent.com/7c12a5728a574b75777ab879974e850ce2e72cbe85b9f241638b0740bc3ae40d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d5265616374)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
